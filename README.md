@@ -1,4 +1,5 @@
-#Ray Tracing Lab
+# Ray Tracing Lab
+This is a showcase for my raytracing project.  
 
 ## Image Based Lighting
 ![IBL Preview](Images/IBL/IBL.jpg "IBL Preview")
